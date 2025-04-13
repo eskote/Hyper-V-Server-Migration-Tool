@@ -1,0 +1,1 @@
+This script is designed to be run from your new Hyper-V host. Make sure it's on your domain network and can reach the server(s) you are migrating roles from. Also make sure that you have your ISO and .msi files locally accessible from the host as well.
